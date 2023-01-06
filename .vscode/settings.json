@@ -1,0 +1,16 @@
+{
+    "editor.tokenColorCustomizations": {
+        "comments": "",
+        "textMateRules": []
+    },
+    "css.format.enable": true,
+    "autoimport.showNotifications": true,
+    "autoimport.absolute": true,
+    "autoimport.doubleQuotes": true,
+    "autoimport.sourceRoot": "D:\\Vazifalar\\1 С + HTML+PYTHON+DJANGO\\Darslar\\Lessons-Pyton DJango\\django_music_manager",
+    "autoimport.semicolon": true,
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.autoImportUserSymbols": false,
+    "python.analysis.importFormat": "absolute",
+    "python.sortImports.path": ""
+}
